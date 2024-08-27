@@ -11,6 +11,12 @@ Node.js: A JavaScript runtime for server-side development.
 # 1.Install Required Software:
 *Download and install Node.js and npm (Node Package Manager) from the official website.
 *Install MongoDB to handle your database needs.
+# 2.Initialize Your Project:
+Create a new directory for your project and navigate into it:
+```
+mkdir ecommerce-app
+cd ecommerce-app
+```
 
 
 
